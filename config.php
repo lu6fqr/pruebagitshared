@@ -1,0 +1,1 @@
+configuro las variables globales del portal

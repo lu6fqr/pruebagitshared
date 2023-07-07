@@ -1,0 +1,1 @@
+esta es la conexion a la base de datos de mysql
